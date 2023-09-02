@@ -1,2 +1,2 @@
 # Simon-Game
-See the project: 
+See the project: https://nadeen145.github.io/Simon-Game/
